@@ -23,6 +23,10 @@ Este código utiliza:
 *   CSS (Bootstrap)
 *   JavaScript (ES6)
 
+##  Considerações Finais
+
+* Este é um projeto simples, mas útil para testar habilidades em front-end com JavaScript, HTML e CSS. Ele demonstra a habilidade de fazer requisições HTTP assíncronas e   de manipular o DOM para exibir dados dinamicamente na página. Além disso, o uso do framework Bootstrap facilita o design responsivo e estilização dos elementos da página.
+
 ## Observações
 
 Este código foi desenvolvido como parte de um teste de Front-End e não tem a intenção de ser utilizado em produção. Apenas para fins educacionais e de demonstração.
